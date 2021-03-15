@@ -1,0 +1,1 @@
+<view><text class="line"></text><text class="circle"></text><text class="model-Title">{{''+titleText+''}}</text><text class="circle"></text><text class="line"></text></view>

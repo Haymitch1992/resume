@@ -1,0 +1,1 @@
+<view class="container"><view class="skill-box"><model-title vue-id="41139e9c-1" titleText="专业技能" bind:__l="__l"></model-title><view class="echarts-box"><view class="echarts-item">1</view><view>1</view><view>1</view><view>1</view></view></view><view class="skill-box"><model-title vue-id="41139e9c-2" titleText="专业技能" bind:__l="__l"></model-title></view></view>
