@@ -17,6 +17,18 @@
 			"style": {
 				"navigationBarTitleText": "自我评价"
 			}
+		},
+		{
+			"path": "pages/work/work",
+			"style": {
+				"navigationBarTitleText": "工作经历"
+			}
+		},
+		{
+			"path": "pages/experience/experience",
+			"style": {
+				"navigationBarTitleText": "项目经验"
+			}
 		}
 	],
 	"globalStyle": {
