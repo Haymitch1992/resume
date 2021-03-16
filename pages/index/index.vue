@@ -3,17 +3,13 @@
 		<image class="logo" src="/static/logo.png"></image>
 		<view class="text-area">
 			<text class="title">{{title}}</text>
-			<modelTitle titleText="专业技能"></modelTitle>
+			<button class="new-page__button-item" @click="navToVue">跳转VUE页面</button>
 		</view>
 	</view>
 </template>
 
 <script>
-	import modelTitle from '../../components/model-title/model-title.vue'
 	export default {
-		components:{
-			modelTitle
-		},
 		data() {
 			return {
 				title: 'Hello'
@@ -23,7 +19,14 @@
 
 		},
 		methods: {
-
+			navToVue(){
+				uni.redirectTo({
+					url: '../assessment/assessment'
+				});
+                // uni.navigateTo({
+                //     url:'pages/skill/skill'
+                // })
+            }
 		}
 	}
 </script>

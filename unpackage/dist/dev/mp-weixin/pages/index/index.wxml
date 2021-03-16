@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title}}</text><button data-event-opts="{{[['tap',[['navToVue',['$event']]]]]}}" class="new-page__button-item" bindtap="__e">跳转VUE页面</button></view></view>

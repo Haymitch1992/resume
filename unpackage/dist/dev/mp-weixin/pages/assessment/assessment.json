@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "自我评价",
+  "usingComponents": {
+    "model-title": "/components/model-title/model-title"
+  }
+}
