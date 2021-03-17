@@ -130,7 +130,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var modelTitle = function modelTitle() {__webpack_require__.e(/*! require.ensure | components/model-title/model-title */ "components/model-title/model-title").then((function () {return resolve(__webpack_require__(/*! ../../components/model-title/model-title.vue */ 27));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
+/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var modelTitle = function modelTitle() {__webpack_require__.e(/*! require.ensure | components/model-title/model-title */ "components/model-title/model-title").then((function () {return resolve(__webpack_require__(/*! ../../components/model-title/model-title.vue */ 45));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
 
 
 
