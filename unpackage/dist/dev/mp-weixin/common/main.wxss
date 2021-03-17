@@ -64,5 +64,6 @@ page {
 }
 .skill-list .skill-text {
   display: inline-block;
+  line-height: 40rpx;
 }
 

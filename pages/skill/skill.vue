@@ -22,19 +22,23 @@
 		  <view class="skill-list">
 			  <view>
 				  <text class="dot-text"></text>
-				  <text class="skill-text">熟练掌握Html5、Css3、Javascript、Ajax、Css3、Javascript、Ajax</text>
+				  <text class="skill-text">熟练掌握HTML5、CSS3、JavaScript、Ajax，能够敏捷开发并高度还原原型效果</text>
 			  </view>	
 			  <view>
 				  <text class="dot-text"></text>
-				  <text class="skill-text">熟练掌握Html5、Css3、Javascript、Ajax</text>
+				  <text class="skill-text">熟练掌握Vue.js、ElementUI、IView、BootStarp、Jquery等主流前端框架</text>
 			  </view>
 			<view>
 				<text class="dot-text"></text>
-				  <text class="skill-text">熟练掌握Html5、Css3、Javascript、Ajax</text>
+				  <text class="skill-text">熟练掌握Echarts、Axios、Animate、Qrcode、Lodash、Moment等前端组件库</text>
 			</view>	
 			<view>
 				<text class="dot-text"></text>
-			  <text class="skill-text">熟练掌握Html5、Css3、Javascript、Ajax</text>
+			  <text class="skill-text">熟练使用git管理工具，熟悉Bower、webpack、Babel、less等前端开发工具</text>
+			</view>
+			<view>
+				<text class="dot-text"></text>
+				<text class="skill-text">了解HTML5+VUE的APP混合开发、了解微信小程序开发</text>
 			</view>
 		  </view>
 	  </view>

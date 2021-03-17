@@ -38,6 +38,7 @@
 		}
 		text{
 			font-size: 26rpx;
+			
 		}
 		.dot-text{
 			display: inline-block;
@@ -52,6 +53,7 @@
 		}
 		.skill-text{
 			display: inline-block;
+			line-height: 40rpx;
 		}
 	}
 </style>
